@@ -114,7 +114,7 @@ if (settings.openRedis) {
     sessionConfig = {
         secret: settings.encrypt_key,
         cookie: {
-            maxAge: 1000 * 60 * 90
+            maxAge: 1000 * 70 * 90
         },
         resave: false,
         saveUninitialized: true,
