@@ -32,7 +32,7 @@
                         <el-col :xs="10" :sm="24" :md="24" :lg="24" :xl="24">
                           <div class="header-logo">
                               <router-link :to="{path: '/'}">
-                                  <img src="../../assets/logo.png" />
+                                  <img src="../../assets/xlogo.png" />
                               </router-link>
                           </div>
                         </el-col>
